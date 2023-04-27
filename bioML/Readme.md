@@ -1,3 +1,13 @@
+# 合成生物机器学习
+一个DNA分子序列预测模型，用于预测DNA序列类型
+
+## 基于Streamlit运行
+
+https://lhcollider-bioml-streamlit-demo-2laiyy.streamlit.app/
+
+
+## 本地运行
+
 1.创建环境
 -
 cmd执行`conda create -n xxx python==3.6`以创建环境，xxx为环境名
